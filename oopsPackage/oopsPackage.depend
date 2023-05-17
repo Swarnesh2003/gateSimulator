@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1655785747 source:c:\users\swarneshwar s\desktop\oopspackage\main.cpp
+	<iostream>
+	<string>
+	"logic.h"
+	"gate.h"
+	"circuit.h"
+	<fstream>
+	<conio.h>
+	<sstream>
+
+1655729036 source:c:\users\swarneshwar s\desktop\oopspackage\logic.cpp
+	<iostream>
+	<vector>
+	<string>
+	"logic.h"
+	<fstream>
+	<sstream>
+	<conio.h>
+	<ctime>
+	<windows.h>
+
+1655723905 source:c:\users\swarneshwar s\desktop\oopspackage\circuit.cpp
+	<iostream>
+	<string>
+	"circuit.h"
+
+1655740116 c:\users\swarneshwar s\desktop\oopspackage\circuit.h
+	"gate.h"
+
+1655742247 c:\users\swarneshwar s\desktop\oopspackage\gate.h
+	<iostream>
+
+1655721516 c:\users\swarneshwar s\desktop\oopspackage\logic.h
+	<iostream>
+	<string>
+	<ctime>
+
+1655785601 source:c:\users\swarneshwar s\desktop\oopspackage\gate.cpp
+	<iostream>
+	<string>
+	<cmath>
+	"gate.h"
+

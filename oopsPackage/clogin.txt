@@ -1,0 +1,83 @@
+Login :swarnesh logged in at Mon Jun 20 17:55:55 2022
+
+Login :swarnesh logged in at Mon Jun 20 18:00:34 2022
+
+used AND GATEand displayed truth table for 2 variables
+used AND GATEand displayed truth table for 3 variables
+Login :swarnesh logged in at Mon Jun 20 18:05:20 2022
+
+[USER] : used OR GATE and displayed truth table for 2 variables
+[USER] : used OR GATE and displayed truth table for 3 variables
+[USER] : logged out...
+
+Login :nithiesh logged in at Mon Jun 20 18:14:31 2022
+
+[USER] : used ADDER CIRCUIT and displayed the FULL ADDER truth table for the circuit
+[USER] : used SUBTRACTOR GATE and displayed the FULL SUBTRACTOR truth table for the circuit
+[USER] : logged out...
+
+Login :swarnesh logged in at Mon Jun 20 19:12:20 2022
+
+[USER] : used SUBTRACTOR GATE and displayed the HALF SUBTRACTOR truth table for the circuit
+Login :swarnesh logged in at Mon Jun 20 19:18:53 2022
+
+Login :swarnesh logged in at Mon Jun 20 21:18:54 2022
+
+[USER] : used SUBTRACTOR GATE and displayed the HALF SUBTRACTOR truth table for the circuit
+[USER] : used NOT GATE and displayed truth table for 2 variables
+[USER] : used NOR GATE and displayed truth table for 2 variables
+[USER] : logged out...
+
+Login :swarnesh logged in at Mon Jun 20 21:54:36 2022
+
+used AND GATEand displayed truth table for 2 variables
+[USER] : used OR GATE and displayed truth table for 3 variables
+[USER] : used NOT GATE [USER] : used NOT GATE and got the required output for the given input
+[USER] : used XOR GATE and displayed truth table for 3 variables
+[USER] : used NAND GATE and displayed truth table for 3 variables
+[USER] : used NOR GATE and displayed truth table for 3 variables
+[USER] : used ADDER CIRCUIT and displayed the HALF ADDER truth table for the circuit
+[USER] : used SUBTRACTOR GATE and displayed the FULL SUBTRACTOR truth table for the circuit
+[USER] : logged out...
+
+Login :swarnesh logged in at Mon Jun 20 22:21:16 2022
+
+[USER] : used XOR GATE and displayed truth table for 3 variables
+[USER] : used NOR GATE and displayed truth table for 3 variables
+[USER] : used XNOR GATE and displayed truth table for 3 variables
+[USER] : used SUBTRACTOR GATE and got the desired output for half-subtractor circuit
+[USER] : logged out...
+
+Login :sanjay logged in at Tue Jun 21 09:57:12 2022
+
+[USER] used AND GATEand displayed truth table for 2 variables
+[USER] used AND GATEand displayed truth table for 3 variables
+[USER] used AND GATEand got the required output for desired 2 input Gate
+[USER] used AND GATEand got the required output for desired 3 input Gate
+[USER] : used OR GATE and displayed truth table for 2 variables
+[USER] used AND GATEand displayed truth table for 3 variables
+[USER] used AND GATEand got the required output for desired 3 input Gate
+[USER] : used XNOR GATE and displayed truth table for 2 variables
+[USER] : used XNOR GATE and displayed truth table for 3 variables
+[USER] : used XNOR GATE and got the required output for desired 2 input Gate
+[USER] : used ADDER CIRCUIT and displayed the HALF ADDER truth table for the circuit
+[USER] : used ADDER CIRCUIT and displayed the HALF ADDER truth table for the circuit
+[USER] : used SUBTRACTOR GATE and got the desired output for full-subtractor circuit
+[USER] : logged out...
+
+Login :thirusha logged in at Tue Jun 21 09:58:35 2022
+
+[USER] : logged out...
+
+Login :thirusha logged in at Tue Jun 21 09:59:23 2022
+
+[USER] : logged out...
+
+Login :swarnesh logged in at Tue Jun 21 10:33:30 2022
+
+[USER] used AND GATEand got the required output for desired 2 input Gate
+[USER] used AND GATEand displayed truth table for 3 variables
+[USER] : used ADDER CIRCUIT and displayed the FULL ADDER truth table for the circuit
+[USER] : used SUBTRACTOR GATE and got the desired output for half-subtractor circuit
+[USER] used AND GATEand got the required output for desired 2 input Gate
+[USER] used AND GATEand displayed truth table for 3 variables
